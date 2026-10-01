@@ -1,4 +1,4 @@
-# Lucky Number
+# Lucky Number (ECE 422C Oct 1 Attendance Activity)
 
 Lucky Number is a small Java console game. The computer chooses a secret number from 1 to 20, and you try to guess it in six tries. After each guess, the game tells you whether to go higher or lower.
 
